@@ -8,6 +8,17 @@ Objective: To Develop Reports and analyze the data in order to understand the da
    
 Scope: Solve Consumer time consumption problem  
  Ease of payment 
+ 
  Customer satisfaction according to Quality Service 
+ 
  Solve the problem of distribution of EV infrastructure 
+ 
  Resolve issue of staff requirement at the station 
+
+EV charging stations analysis using power Bi 	
+The main objective of the project is to detect the Distribution of Ev stations across Delhi city 
+
+Description
+●	Analyzed EV charging station data sourced from Kaggle, addressing challenges such as consumer time consumption, ease of payment, and customer satisfaction, while resolving issues related to infrastructure distribution and staff requirements.
+●	Enhanced domain knowledge by supplementing dataset insights with information on vehicle types, EV hybrid station preferences, and urban versus rural staff requirements.
+●	Ensured data quality by handling missing values, resolving inaccuracies, and dropping irrelevant categories, facilitating comprehensive reports for informed decision-making and growth strategies in EV station development across diverse locations.
